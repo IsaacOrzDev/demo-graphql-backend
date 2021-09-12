@@ -65,6 +65,13 @@ let playlist = [
     duration: '3:00',
     isPlaying: false,
   },
+  {
+    id: 5,
+    title: 'trust you',
+    signer: '伊藤由奈',
+    duration: '3:00',
+    isPlaying: false,
+  },
 ];
 
 const getPlaylist = (args) => {
